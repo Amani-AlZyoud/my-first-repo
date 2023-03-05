@@ -21,7 +21,6 @@ I am **Amani Zyoud**, from **Jordan**, hold a **BS degree** in **Computer Engine
 |         |          | NI Multisim          |
 
 
-gfhfghfghngdh
 
 
 ***My Favorite Quote*** 📖
