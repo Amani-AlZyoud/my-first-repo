@@ -15,7 +15,7 @@ I am **Amani Zyoud**, from **Jordan**, hold a **BS degree** in **Computer Engine
 | ---| --- | ---|
 | C/C++| Arabic | Visual Studio|
 | C# | English   | PyCharm IDE |
-| Python | Japaneses | MPLAB IDE |
+| Python | Japanese | MPLAB IDE |
 |         |          | Proteus Design Suite |
 |         |          | Cisco Packet Tracer  |
 |         |          | NI Multisim          |
